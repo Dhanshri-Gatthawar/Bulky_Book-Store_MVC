@@ -1,7 +1,5 @@
 # Bulky_Book-Store_MVC
 
-![Screenshot 2024-05-18 132450](https://github.com/Dhanshri-Gatthawar/Bulky_Book-Store_MVC/assets/97933906/b12d7099-9d99-4587-9915-4b39011ea888)
-![Screenshot 2024-05-18 132531](https://github.com/Dhanshri-Gatthawar/Bulky_Book-Store_MVC/assets/97933906/d5186eec-1074-4c0b-be93-5b3bfc4337d1)
 ![Screenshot 2024-05-18 132608](https://github.com/Dhanshri-Gatthawar/Bulky_Book-Store_MVC/assets/97933906/74ddb636-d4eb-4f29-8026-d07e978147e8)
 ![Screenshot 2024-05-18 132746](https://github.com/Dhanshri-Gatthawar/Bulky_Book-Store_MVC/assets/97933906/3ed701f1-7222-4845-8823-223ffebaa7e6)
 ![Screenshot 2024-05-18 132846](https://github.com/Dhanshri-Gatthawar/Bulky_Book-Store_MVC/assets/97933906/e04feeeb-1df0-4d95-9260-67c0f4e97348)
