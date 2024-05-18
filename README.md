@@ -14,4 +14,6 @@
 
 ![Screenshot 2024-05-18 133019](https://github.com/Dhanshri-Gatthawar/Bulky_Book-Store_MVC/assets/97933906/b770ea83-ca4a-4b7a-8fe4-01b1d8c72897)
 
+![Screenshot 2024-05-18 133133](https://github.com/Dhanshri-Gatthawar/Bulky_Book-Store_MVC/assets/97933906/58836d78-4cf6-4ebf-8547-4acfbae75764)
+
 ![Screenshot 2024-05-18 133059](https://github.com/Dhanshri-Gatthawar/Bulky_Book-Store_MVC/assets/97933906/506b8d82-0b11-4801-aeca-f195a791964c)
